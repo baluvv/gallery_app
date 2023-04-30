@@ -1,0 +1,17 @@
+.thumbnail {
+  height: 80px;
+  width: 80px;
+  margin-right: 15px;
+  opacity: 0.5;
+}
+
+.activeThumbNail {
+  height: 80px;
+  width: 80px;
+  margin-right: 15px;
+}
+
+.button {
+  background-color: transparent;
+  border-width: 0px;
+}

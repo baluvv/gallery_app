@@ -1,0 +1,30 @@
+.app-container {
+  height: 100vh;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+}
+
+.selected-image {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.nature {
+  font-family: 'Roboto';
+  font-size: 23px;
+  color: #1e293b;
+}
+
+.thumbnails-container {
+  list-style-type: none;
+  display: flex;
+  padding-left: 0px;
+}
+
+.photographer {
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #64748b;
+}
